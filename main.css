@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+.formulario {
+  width: 50%;
+  margin: 20px auto;
+}
+.tablas {
+  width: 15em;
+  margin: 20px auto;
+}
+.fila {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 24px;
+}
